@@ -1,7 +1,11 @@
+# Ignore Mac folder settings
+.DS_Store
+
 # Ignore .gitignore and target folders
 src/*/.gitignore
 src/*/target/
 /target
+dist
 
 # Ignore Eclipse project and settings files
 .classpath
