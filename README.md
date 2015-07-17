@@ -17,6 +17,7 @@ more
 - OPA tests are running extremely slow and fail in PhatomJS
 - Refactor module loading to use new RequireJS style (currently only used in some modules)
 - Might need to play around with bootstrap tag \'data-sap-ui-preload\' to get a performant solution (check existing fiori apps as this stuff is changing from each UI5 release)
+- Update source for OpenUI5 coding style - this currently has incorrect quotes for example...
 
 ## To get started
 Ensure you have installed Node.js
