@@ -23,7 +23,7 @@ more
 Ensure you have installed Node.js
 
 ```javascript
-git clone \<this repo\>
+git clone https://github.com/js1972/md-template.git
 npm install
 bower install
 ```
