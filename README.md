@@ -13,7 +13,7 @@ more
 - a good examples of how to use promises with models and lists
 
 This repo uses Bower for the OpenUI5 sources by default. As these are debug (non-compressed) sources the log leve is set to ERROR which does slow down the running on the app.
-You can use (jQuery.sap.log.setLevel)[https://openui5.hana.ondemand.com/#docs/api/symbols/jQuery.sap.log.html] to override this and set the log level in code. Or, you can point to a different source for the OpenUI5/SAPUI5 runtime.
+You can use [jQuery.sap.log.setLevel](https://openui5.hana.ondemand.com/#docs/api/symbols/jQuery.sap.log.html) to override this and set the log level in code. Or, you can point to a different source for the OpenUI5/SAPUI5 runtime.
 
 ## Current issues
 - Unit test are running extremely slow in PhantomJS
